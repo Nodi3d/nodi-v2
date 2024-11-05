@@ -1,6 +1,6 @@
-<div>
-  <img src="assets/images/logo-blue-square.svg" width="22" /> <h1 style="display: inline; font-size: 20px;">Nodi v2 early access</H1>
-</div>
+<h1>
+  <img src="assets/images/logo-blue-square.svg" width="22" /> <span style="display: inline; font-size: 20px;">Nodi v2 early access</span>
+</h1>
 
 https://v2.nodi3d.com
 
