@@ -1,5 +1,5 @@
 <h1>
-  <img src="assets/images/logo-blue-square.svg" width="22" /> <span style="display: inline; font-size: 20px;">Nodi v2 early access</span>
+  <img src="assets/images/logo-blue-square.svg" width="28" style="margin-right: 4px;" /> Nodi v2 early access
 </h1>
 
 https://v2.nodi3d.com
