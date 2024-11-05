@@ -1,6 +1,8 @@
-# Nodi v2 early access
+<div>
+  <img src="assets/images/logo-blue-square.svg" width="22" /> <h1 style="display: inline; font-size: 20px;">Nodi v2 early access</H1>
+</div>
 
-Early access to version 2 of Nodi. https://v2.nodi3d.com
+https://v2.nodi3d.com
 
 [<img src="assets/images/wave-spring.jpg" width="100%" />](https://v2.nodi3d.com?example=WaveSpring)
 
