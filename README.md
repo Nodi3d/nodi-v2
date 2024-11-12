@@ -21,6 +21,10 @@ Documentation is available at [Wiki](https://github.com/Nodi3d/nodi-v2/wiki) tab
 
 Please use the [Discussions](https://github.com/Nodi3d/nodi-v2/discussions) tab to ask questions, share ideas, and discuss anything related to Nodi v2.
 
+## Change log
+
+Change log is available at [Discussion thread](https://github.com/Nodi3d/nodi-v2/discussions/4?sort=new)
+
 ## Author
 
 [Masatatsu Nakamura](https://mattatz.org)
