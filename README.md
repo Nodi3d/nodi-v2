@@ -23,7 +23,7 @@ Please use the [Discussions](https://github.com/Nodi3d/nodi-v2/discussions) tab 
 
 ## Change log
 
-Change log is available at [Discussion thread](https://github.com/Nodi3d/nodi-v2/discussions/4?sort=new)
+Change log is available at [Announcements](https://github.com/Nodi3d/nodi-v2/discussions/categories/announcements) category.
 
 ## Author
 
