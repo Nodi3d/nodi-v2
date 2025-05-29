@@ -1,0 +1,67 @@
+@import "tailwindcss";
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  
+  /* screens */
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 976px;
+  --breakpoint-xl: 1440px;
+
+  
+  --color-primary: #3781E2;
+  --color-secondary: #25FEC1;
+  --color-content-h:#1C1C1C;
+  --color-content-m:#707070;
+  --color-content-l:#BDBDBD;
+  --color-content-xl:#E9E9E9;
+  --color-content-xxl:#F5F5F5;
+  --color-content-h-a:rgba(28,28,28,.89);
+  --color-content-m-a:rgba(28,28,28,.56);
+  --color-content-l-a:rgba(28,28,28,.26);
+  --color-content-xl-a:rgba(28,28,28,.12);
+  --color-content-xxl-a:rgba(28,28,28,.08);
+  --color-content-dark-h-a:rgba(255,255,255,.89);
+  --color-content-dark-m-a:rgba(255,255,255,.56);
+  --color-content-dark-l-a:rgba(255,255,255,.26);
+  --color-content-dark-xl-a:rgba(255,255,255,.12);
+  --color-content-dark-xxl-a:rgba(255,255,255,.08);
+  --color-white: #ffffff;
+  --color-surface-base: #E7E7E7;
+  --color-surface-ev1: #35383B;
+  --color-surface-ev2: #000000;
+  --color-surface-sheet-h: rgba(255,255,255,.64);
+  --color-surface-sheet-m: rgba(255,255,255,.56);
+  --color-surface-sheet-l: rgba(255,255,255,.32);
+  --color-system-error: #F3785D;
+  --color-system-warning: rgba(254, 161, 41, 1.0);
+  --color-system-success: #00FF00;
+  --color-system-info: #3493FF;
+
+  --font-sans: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --font-display: "F5.6", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --text-overline: 0.625rem;
+  /* --text-overline--line-height: 120%; 
+  --text-overline--letter-spacing: 0rem;  */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 3rem;
+  
+}
+@layer components {
+  .button{
+    @apply px-6 py-2 rounded-full text-sm font-semibold hover:brightness-95 transition-all duration-200 cursor-pointer;
+  }
+  .button-sq{
+    @apply p-2 rounded-md text-sm font-semibold bg-transparent hover:bg-content-xxl-a transition-all duration-200;
+  }
+}
