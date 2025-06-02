@@ -11,7 +11,7 @@ export const Hero: React.FC = () => {
   }
 
   return (
-    <section className="@container w-full min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-[#f8fbff] to-[#e9f0fa] py-32">
+    <section className="@container w-full min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-[#f8fbff] to-[#e9f0fa] px-4 py-32 md:px-0">
       <h1 className="text-4xl md:text-5xl font-bold text-center leading-tight mb-6">
         Model, Collaborate, Integrate
         <br />

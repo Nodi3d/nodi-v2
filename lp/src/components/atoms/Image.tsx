@@ -72,7 +72,7 @@ const Image: React.FC<Props> = ({ path, alt = "", className = "", aspect }) => {
           alt={alt}
           className={
             aspectClass
-              ? "absolute inset-0 w-full h-full object-fill"
+              ? "absolute inset-0 w-full h-full object-cover"
               : isDefault43
               ? "absolute inset-0 w-full h-full object-cover"
               : "w-full h-auto"

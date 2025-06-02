@@ -1,7 +1,6 @@
 @import "tailwindcss";
 /* src/index.css */
-@tailwind base;
-@tailwind components;
+
 @tailwind utilities;
 
 @theme {
@@ -63,6 +62,6 @@
     @apply px-6 py-2 rounded-full text-sm font-semibold hover:brightness-95 transition-all duration-200 cursor-pointer;
   }
   .button-sq{
-    @apply p-2 rounded-md text-sm font-semibold bg-transparent hover:bg-content-xxl-a transition-all duration-200;
+    @apply p-2 rounded-md text-sm font-semibold bg-transparent hover:bg-content-xxl-a transition-all duration-200 cursor-pointer;
   }
 }
