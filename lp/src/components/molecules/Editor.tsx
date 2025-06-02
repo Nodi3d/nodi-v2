@@ -111,7 +111,7 @@ const Editor: React.FC = () => {
           </span>
         </div>
         <h2 className="text-4xl font-semibold mb-4">
-          AI Friendly Grasshopper. <br />
+          Feels like Grasshopper. <br />
           Works on the Web.
         </h2>
         <nav className="flex gap-2 mt-6 justify-center mb-8">
